@@ -1,0 +1,17 @@
+{
+  "name": "private-blockchain-connect-p3",
+  "version": "1.0.0",
+  "description": "Boilerplate Code of blockchain storage method using ES6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomgtbst",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "level": "^5.0.1"
+  }
+}
